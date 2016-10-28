@@ -1,5 +1,5 @@
 # ZipCracker  
-A simple zip file cracker using a dictionary file to guess the password
+A simple zip file cracker using a dictionary file to guess the password. For every password in the dictionary file, a thread will be created to speed up the process.  
 
 # Requirements
 - Password File
