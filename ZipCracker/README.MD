@@ -11,7 +11,8 @@ A simple zip file cracker using a dictionary file to guess the password. For eve
 Usage: python ZipCracker.py -f [zipfile] -d [dictfile]  
 
 Options:  
+
   -h, --help   show this help message and exit  
-  -f ZIPNAME   Specify a zip file  
-  -d DICTNAME  Specify a zip file  
+  -f [ZIPNAME]   Specify a zip file  
+  -d [DICTNAME]  Specify a zip file  
   
