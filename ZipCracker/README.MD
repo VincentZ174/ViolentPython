@@ -10,7 +10,7 @@ A simple zip file cracker using a dictionary file to guess the password
 # Help
 Usage: usageZipcracker.py -f <zipfile> -d <dictionary>
 
-Options:
+Options:  
   -h, --help  show this help message and exit  
   -f ZNAME    specify zip file  
   -d DNAME    specify zip file  
