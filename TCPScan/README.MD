@@ -1,6 +1,6 @@
 # TCPScan
 
-A simple port scanner that only checks one port at a time and prints the service running on that port. 
+A simple port scanner that only checks one port at a time for a given host and prints the service running on that port. 
 
 # Important  
 
