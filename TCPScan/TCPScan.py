@@ -37,7 +37,7 @@ def main():
 	Host = options.Host
 	Ports = str(options.Port).split(', ')
 	if(Host == None) | (Ports[0] == None):
-		print '[-] You must specify a target host and port(s)'
+		print '[-] You must specify a target host and port'
 		exit(0)
 	portScan(Host, Ports)
 
